@@ -1,5 +1,5 @@
 ﻿body{
-    background: url(img/layer-1.jpg);
+    background: url("../img/layer-1.jpg");
     background-repeat: no-repeat;
    background-size:  max-width: 100%;
   
