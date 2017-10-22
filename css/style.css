@@ -12,7 +12,7 @@ margin: 0;
 	display: flex;
 }
 #screen-1 {
-	background: url(img/layer-1.jpg);
+	background: url(smalldan.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	top:0;
